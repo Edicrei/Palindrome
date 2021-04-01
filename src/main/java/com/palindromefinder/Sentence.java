@@ -1,3 +1,5 @@
+package com.example.Palindrome;
+
 public final class Sentence { 
         
     private Sentence(){
