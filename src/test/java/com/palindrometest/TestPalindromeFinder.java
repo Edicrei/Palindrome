@@ -1,9 +1,13 @@
 package test.java.com.palindrometest;
 
 import static org.junit.Assert.assertThat;
+
+import com.example.Palindrome.Sentence;
+
 import static org.hamcrest.CoreMatchers.is;
 
 import org.junit.Test;
+
 
 
 public class TestPalindromeFinder {  
